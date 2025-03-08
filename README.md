@@ -37,6 +37,5 @@ npm run build
 ```sh
 npm run lint
 ```
-
-``` 后端接口地址(该项目只实现了部分页面，没有完全实现)
+后端接口地址(该项目只实现了部分页面，没有完全实现)
 http://dishaxy.dishait.cn/shopadminapi/
